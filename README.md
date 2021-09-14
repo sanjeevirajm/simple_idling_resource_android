@@ -18,3 +18,6 @@ Ex: https://github.com/Kotlin/kotlinx.coroutines/issues/242
 You can see lots of discussion going on since 2018 for idling resource implementation in coroutines.
 
 * It pollutes the development code
+
+Issue tracker link - Feature request
+https://issuetracker.google.com/issues/193815949
