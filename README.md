@@ -8,7 +8,8 @@ Pros of this technique:
 Concerns:
 * I think the technique is fragile. So far i know, no one else is using this technique
 
-Add (implementation 'org.apache.commons:commons-lang3:3.11') before copy pasting it.
+Add (androidTestImplementation 'org.apache.commons:commons-lang3:3.11') before copy pasting it.
+Also, instead of paste the code in test folder instead of development folder
 
 Issues in other idling resource techhniques:
 
